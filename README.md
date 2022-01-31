@@ -1,7 +1,7 @@
 ## Blog App
 
 #
-<img src='./src/images/blogApp.png' />
+<img src='https://github.com/ITZjosue/blogApp/blob/588c1d890d6de87d5cf718796ed8cb8683bf8418/src/images/blogApp.PNG' />
 <p> Este es un proyecto personal realizado para aprender a usar MongoDB y mongoose</p>
 <p> Tech stack usado: </p>
 <li>Font: ReactJS
